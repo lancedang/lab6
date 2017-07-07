@@ -160,7 +160,7 @@ public abstract class Item implements Comparable<Item> {
      */
     @Override
     public String toString() {
-        String weightStr = String.format("%2f", this.weight);
+        String weightStr = String.format("%.2f", this.weight);
         return this.name + " -- Value: " + this.value + ", Weight: " + weightStr;
     }
 

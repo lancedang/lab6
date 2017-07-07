@@ -1,7 +1,5 @@
 package com.ppdai.tutorial;
 
-import com.ppdai.tutorial.inter.ItemComparator;
-
 /**
  * Created by Dangdang on 2017/6/28.
  */

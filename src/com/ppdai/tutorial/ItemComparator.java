@@ -1,11 +1,11 @@
-package com.ppdai.tutorial.inter;
+package com.ppdai.tutorial;
 
 import com.ppdai.tutorial.Item;
 
 import java.util.Comparator;
 
 /**
- * Interface used by com.ppdai.tutorial.Item.sort(com.ppdai.tutorial.inter.ItemComparator comparator)
+ * Interface used by com.ppdai.tutorial.Item.sort(com.ppdai.tutorial.ItemComparator comparator)
  * This ensures that Comparators passed into sort() compare
  * objects of type com.ppdai.tutorial.Item.
  * 

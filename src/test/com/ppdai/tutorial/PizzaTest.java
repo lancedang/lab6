@@ -1,5 +1,6 @@
-package com.ppdai.tutorial;
+package test.com.ppdai.tutorial;
 
+import com.ppdai.tutorial.Pizza;
 import org.junit.Assert;
 import org.junit.Test;
 
